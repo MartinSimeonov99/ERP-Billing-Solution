@@ -1,0 +1,6 @@
+Customer name: Wilbert Horton
+Daytime usage: 489 kWh
+Nighttime usage: 1034 kWh
+Daytime charge: $68.46
+Nighttime charge: $51.70
+Total: $120.16

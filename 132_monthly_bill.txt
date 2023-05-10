@@ -1,0 +1,6 @@
+Customer name: Ruben Huff
+Daytime usage: 521 kWh
+Nighttime usage: 1060 kWh
+Daytime charge: $72.94
+Nighttime charge: $53.00
+Total: $125.94

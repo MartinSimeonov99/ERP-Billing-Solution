@@ -1,0 +1,6 @@
+Customer name: Sabrina Romero
+Daytime usage: 592 kWh
+Nighttime usage: 874 kWh
+Daytime charge: $82.88
+Nighttime charge: $43.70
+Total: $126.58

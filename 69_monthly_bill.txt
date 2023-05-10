@@ -1,0 +1,6 @@
+Customer name: Chuck Norris
+Daytime usage: 2232 kWh
+Nighttime usage: 3854 kWh
+Daytime charge: $312.48
+Nighttime charge: $192.70
+Total: $505.18

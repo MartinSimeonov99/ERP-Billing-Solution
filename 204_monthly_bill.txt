@@ -1,0 +1,6 @@
+Customer name: Michael Flores
+Daytime usage: 560 kWh
+Nighttime usage: 884 kWh
+Daytime charge: $78.40
+Nighttime charge: $44.20
+Total: $122.60

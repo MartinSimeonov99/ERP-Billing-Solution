@@ -1,0 +1,6 @@
+Customer name: Darrell Frazier
+Daytime usage: 3593 kWh
+Nighttime usage: 5343 kWh
+Daytime charge: $503.02
+Nighttime charge: $267.15
+Total: $770.17

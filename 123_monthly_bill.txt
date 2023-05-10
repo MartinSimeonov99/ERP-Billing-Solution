@@ -1,0 +1,6 @@
+Customer name: Gerard Kelley
+Daytime usage: 2837 kWh
+Nighttime usage: 3494 kWh
+Daytime charge: $397.18
+Nighttime charge: $174.70
+Total: $571.88

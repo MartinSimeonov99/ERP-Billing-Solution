@@ -1,0 +1,6 @@
+Customer name: Tricia Higgins
+Daytime usage: 704 kWh
+Nighttime usage: 868 kWh
+Daytime charge: $98.56
+Nighttime charge: $43.40
+Total: $141.96

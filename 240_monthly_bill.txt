@@ -1,0 +1,6 @@
+Customer name: Betsy Copeland
+Daytime usage: 1186 kWh
+Nighttime usage: 1338 kWh
+Daytime charge: $166.04
+Nighttime charge: $66.90
+Total: $232.94

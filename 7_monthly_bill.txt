@@ -1,0 +1,6 @@
+Customer name: Cristiano Ronaldo
+Daytime usage: 9926 kWh
+Nighttime usage: 1273 kWh
+Daytime charge: $1389.64
+Nighttime charge: $63.65
+Total: $1453.29

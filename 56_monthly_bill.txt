@@ -1,0 +1,6 @@
+Customer name: Darlene Rios
+Daytime usage: 2081 kWh
+Nighttime usage: 2484 kWh
+Daytime charge: $291.34
+Nighttime charge: $124.20
+Total: $415.54
